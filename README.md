@@ -113,9 +113,8 @@ Import `postman_collection.json` into Postman to test endpoints.
 git clone https://github.com/s2pl/KPA-ERP-FE.git
 cd KPA-ERP-FE
 ```
-Find and Change the API Base URL
+Find and Change the API Base URL `api_constant.dart`
 ```dart
-# api_constant.dart
 https://kpa.suvidhaen.com
 ```
 This is the default backend API. We need to replace this with our backend URL.
