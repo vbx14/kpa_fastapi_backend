@@ -105,7 +105,9 @@ Import `postman_collection.json` into Postman to test endpoints.
 - `.env` → Environment config
 
 ## Screenshots
-`screenshots/` folder.
+
+### Uvicorn Server Up
+![uvicorn_server_up(main+API)](https://github.com/vbx14/kpa_fastapi_backend/blob/4a4e29f2d6c839a9ad62677b57a834683255ad72/screenshots/uvicorn_server_up(main%2BAPI).png)
 
 ## Frontend Repo
 
