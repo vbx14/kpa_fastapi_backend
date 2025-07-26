@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+alembic/
+alembic.ini
+screenshots/
+*.sqlite3
+*.log
+.postman_collection.json
