@@ -17,7 +17,7 @@ A backend system built with **FastAPI** and **PostgreSQL**, designed to handle s
 - **FastAPI**
 - **SQLAlchemy**
 - **PostgreSQL 14**
-- **Alembic** (migrations ready)
+- **Postman** 
 
 ## Local Development (without Docker)
 
@@ -165,3 +165,10 @@ flutter run -d chrome
 ![backend_connected](https://github.com/vbx14/kpa_fastapi_backend/blob/1ace22f8226837f1fe077ca069e07564d688197e/screenshots/backend%20connected.png)
 
 ![flutter+firebase_FE](https://github.com/vbx14/kpa_fastapi_backend/blob/1ace22f8226837f1fe077ca069e07564d688197e/screenshots/flutter%2Bfirebase_FE_integrated.png)
+
+## Future Improvements
+
+- Add authentication (JWT or OAuth2)
+- Add bulk upload or CSV import
+- Expand validation rules for fields
+- Deploy to cloud
