@@ -104,11 +104,6 @@ Import `postman_collection.json` into Postman to test endpoints.
 - `app/routers/` → API routers for form POST and GET
 - `.env` → Environment config
 
-## Screenshots
-
-### Uvicorn Server Up
-![uvicorn_server_up(main+API)](https://github.com/vbx14/kpa_fastapi_backend/blob/4a4e29f2d6c839a9ad62677b57a834683255ad72/screenshots/uvicorn_server_up(main%2BAPI).png)
-
 ## Frontend Repo
 
 ```
@@ -129,3 +124,44 @@ Run the Flutter Frontend
 ```
 flutter run -d chrome
 ```
+
+## Screenshots
+
+### Uvicorn Server Up
+![uvicorn_server_up(main+API)](https://github.com/vbx14/kpa_fastapi_backend/blob/4a4e29f2d6c839a9ad62677b57a834683255ad72/screenshots/uvicorn_server_up(main%2BAPI).png)
+
+### API Integration
+![API_integration](https://github.com/vbx14/kpa_fastapi_backend/blob/1ace22f8226837f1fe077ca069e07564d688197e/screenshots/API_integration.png)
+
+### POST/GET (Swagger UI - 200 OK)
+![post_swagger_schema](https://github.com/vbx14/kpa_fastapi_backend/blob/1ace22f8226837f1fe077ca069e07564d688197e/screenshots/post_swagger_schema.png)
+
+![post_swagger_requestUrl](https://github.com/vbx14/kpa_fastapi_backend/blob/1ace22f8226837f1fe077ca069e07564d688197e/screenshots/post_swagger_requestUrl.png)
+
+![post_swagger_200Ok](https://github.com/vbx14/kpa_fastapi_backend/blob/1ace22f8226837f1fe077ca069e07564d688197e/screenshots/post_swagger_200Ok.png)
+
+![get_swagger_params](https://github.com/vbx14/kpa_fastapi_backend/blob/1ace22f8226837f1fe077ca069e07564d688197e/screenshots/get_swagger_params.png)
+
+![get_swagger_params(filled)](https://github.com/vbx14/kpa_fastapi_backend/blob/1ace22f8226837f1fe077ca069e07564d688197e/screenshots/get_swagger_params(filled).png)
+
+![get_swagger_200Ok](https://github.com/vbx14/kpa_fastapi_backend/blob/1ace22f8226837f1fe077ca069e07564d688197e/screenshots/get_swagger_200Ok.png)
+
+![get_swagger_requestUrl](https://github.com/vbx14/kpa_fastapi_backend/blob/1ace22f8226837f1fe077ca069e07564d688197e/screenshots/get_swagger_requestUrl.png)
+
+### PostgreSQL Intergrated
+![postgresDb_integrated](https://github.com/vbx14/kpa_fastapi_backend/blob/1ace22f8226837f1fe077ca069e07564d688197e/screenshots/postgresDb_integrated.png)
+
+### Postman Test Endpoints
+![postman_post](https://github.com/vbx14/kpa_fastapi_backend/blob/1ace22f8226837f1fe077ca069e07564d688197e/screenshots/postman_post.png)
+
+![postman_get](https://github.com/vbx14/kpa_fastapi_backend/blob/1ace22f8226837f1fe077ca069e07564d688197e/screenshots/postman_get.png)
+
+### Docker
+![dockerized](https://github.com/vbx14/kpa_fastapi_backend/blob/1ace22f8226837f1fe077ca069e07564d688197e/screenshots/dockerized.png)
+
+![docker2](https://github.com/vbx14/kpa_fastapi_backend/blob/1ace22f8226837f1fe077ca069e07564d688197e/screenshots/docker2.png)
+
+### Frontend Integration
+![backend_connected](https://github.com/vbx14/kpa_fastapi_backend/blob/1ace22f8226837f1fe077ca069e07564d688197e/screenshots/backend%20connected.png)
+
+![flutter+firebase_FE](https://github.com/vbx14/kpa_fastapi_backend/blob/1ace22f8226837f1fe077ca069e07564d688197e/screenshots/flutter%2Bfirebase_FE_integrated.png)
