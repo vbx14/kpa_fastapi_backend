@@ -34,7 +34,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### Step 3: Add your environment config
+### Step 3: Add environment config
 ```env
 # .env
 DATABASE_URL=postgresql://kpa_user:kpa_password@localhost:5432/kpa_db
